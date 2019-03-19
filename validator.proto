@@ -11,7 +11,7 @@ package validator;
 
 import "google/protobuf/descriptor.proto";
 
-option go_package = "github.com/cuttyflam17/go-proto-validator";
+option go_package = "github.com/cuttyflam17/go-proto-validators";
 
 // TODO(mwitkow): Email protobuf-global-extension-registry@google.com to get an extension ID.
 
